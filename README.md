@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="200px" /></p>
+<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="300px" /></p>
 
 <!-- <p><img align="right" src="https://github.com/abhishi1432/README.md/blob/main/animation_500_kxa883sd.gif" alt="abhishi1432" height="200px" /></p> -->
 
