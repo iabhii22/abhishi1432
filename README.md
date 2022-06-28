@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="300px" /></p>
+<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="300px" width="300px" /></p>
 
 <!-- <p><img align="right" src="https://github.com/abhishi1432/README.md/blob/main/animation_500_kxa883sd.gif" alt="abhishi1432" height="200px" /></p> -->
 
@@ -29,10 +29,10 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/abhishi/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="adam pithewan" height="30" width="40" /></a>
+            alt="Abhishek singh" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100002571499703" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="adam pithen wala" height="30" width="40" /></a>
+            alt="Abhishek singh" height="30" width="40" /></a>
     <!--   <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
@@ -85,7 +85,6 @@
             <img alt="HTML5" width="40" height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
             <img  alt="Git" width="35" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
             <img  alt="GitHub" width="40" height="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-
             <img  alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br>
 
