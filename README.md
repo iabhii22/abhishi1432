@@ -10,14 +10,14 @@
 
 <br>
 
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="300px" width="300px" /></p>
+<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="350px" width="400px" /></p>
 
 <!-- <p><img align="right" src="https://github.com/abhishi1432/README.md/blob/main/animation_500_kxa883sd.gif" alt="abhishi1432" height="200px" /></p> -->
 
 
 - 🌱 I’m a final year undergraduate at KNIT, Sultanpur.
 
-- I'm a problem solving enthusiast, working to hone my skills
+- ⚡I'm a problem solving enthusiast, working to hone my skills
 
 - 📫 How to reach me **abhisheksngh2204@gmail.com**
 
