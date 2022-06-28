@@ -12,9 +12,6 @@
 
 <p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="350px" width="400px" /></p>
 
-<!-- <p><img align="right" src="https://github.com/abhishi1432/README.md/blob/main/animation_500_kxa883sd.gif" alt="abhishi1432" height="200px" /></p> -->
-
-
 - 🌱 I’m a final year undergraduate at KNIT, Sultanpur.
 
 - ⚡I'm a problem solving enthusiast, working to hone my skills
@@ -33,15 +30,7 @@
     <a href="https://www.facebook.com/profile.php?id=100002571499703" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="Abhishek singh" height="30" width="40" /></a>
-    <!--   <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
+
 </p>
 
 <br>
@@ -63,23 +52,14 @@
  </p>
 <br>
 <br>
+<br>
 
 <h3 align="left">Statistical Data :-</h3>
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishi1432&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-        alt="adam-pw" bg_color=#808080 /></p>
-
 <br>
+<p align="center"><img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishi1432&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="abhishi1432" bg_color=#808080/></p>
+<p align="left"><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhishi1432&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="abhishi1432"  /><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishi1432&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="abhishi1432" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=abhishi1432&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-        alt="adam-pw" /></p>
 
-<br>
-
-<p><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=abhishi1432&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
-        alt="adam-pw" /></p>
-
+[![Abhishek Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishi1432&custom_title=Abhishek%20Singh's%20Contribution%20Graph&theme=dark&bg_color=0d1117&hide_border=true&line=d1a01f&point=c58545)](https://abhishi1432.dev)
 
 [abhishi1432](https://github.com/abhishi1432)
