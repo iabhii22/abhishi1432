@@ -46,44 +46,25 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
- <p align="left">
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50"
-        height="50" style="margin-right: 50px"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus" width="50" height="50" style="margin-right: 50px"/>
-</a> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="50" height="50" style="margin-right: 50px"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="50" height="50" style="margin-right: 50px"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="50" height="50" style="margin-right: 50px"/> </a>
-<a href="https://www.w3.org/bootstrap/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="50" height="50" style="margin-right: 50px"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="50" height="50" style="margin-right: 50px"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="50" height="50" style="margin-right: 50px"/> </a>
-<img alt="HTML5" width="50" height="50"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" style="margin-right: 50px" />
-<img alt="Git" width="50" height="50" style="margin-right: 50px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="GitHub" width="50" height="50" style="margin-right: 50px"
-    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="Visual Studio Code" width="50" height="50" style="margin-right: 50px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<h3 >Languages and Tools:</h3>
+ <p>
+<img align="left"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin-right: 50px"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin-right: 50px"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 50px"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin-right: 50px"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin-right: 50px"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin-right: 50px"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 50px"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right: 50px"/> 
+<img align="left" alt="HTML5" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" style="margin-right: 50px" />
+<img align="left" alt="Git" width="50" height="50" style="margin-right: 50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="50" height="50" style="margin-right: 50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="50" height="50" style="margin-right: 50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  </p>
 <br>
+<br>
 
-<h3>Statistical Data :-</h3>
+<h3 align="left">Statistical Data :-</h3>
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishi1432&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
         alt="adam-pw" bg_color=#808080 /></p>
