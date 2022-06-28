@@ -19,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/abhishi/" target="blank"><img align="left"
+    <a href="https://www.linkedin.com/in/abhishi/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="Abhishek singh" height="30" width="30" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100002571499703" target="blank"><img align="left"
+            alt="Abhishek singh" height="30" width="35" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100002571499703" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="Abhishek singh" height="30" width="30" /></a>
+            alt="Abhishek singh" height="30" width="35" /></a>
 
 </p>
 
