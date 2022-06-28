@@ -1,26 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 
-<br>
-
 <p align="right">
 <h3>Profile Views :-</h3> <img
     src="https://komarev.com/ghpvc/?username=abhishi1432&label=Profile%20views&color=0e75b6&style=flat"
     alt="abhishi1432" />
 </p>
 
-<br>
-
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="350px" width="400px" /></p>
+<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="280px" width="400px" /></p>
 
 - 🌱 I’m a final year undergraduate at KNIT, Sultanpur.
 
 - ⚡I'm a problem solving enthusiast, working to hone my skills
 
-- 📫 How to reach me **abhisheksngh2204@gmail.com**
+- 📫 Reach me at : **abhisheksngh2204@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +28,6 @@
 
 </p>
 
-<br>
 
 <h3 >Languages and Tools:</h3>
  <p>
