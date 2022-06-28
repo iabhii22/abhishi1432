@@ -15,7 +15,7 @@
 - 📫 Reach me at : **abhisheksngh2204@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,6 @@
 
 </p>
 
-<br>
 
 <h3 >Languages and Tools:</h3>
  <p>
