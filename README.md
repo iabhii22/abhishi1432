@@ -6,7 +6,7 @@
     alt="abhishi1432" />
 </p>
 
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="280px" width="500px" /></p>
+<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="300px" width="500px" /></p>
 
 - 🌱 I’m a final year undergraduate at KNIT, Sultanpur.
 
@@ -28,7 +28,7 @@
 
 </p>
 
-
+<br>
 <h3 >Languages and Tools:</h3>
  <p>
 <img align="left"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin-right: 50px"/> 
