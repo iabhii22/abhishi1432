@@ -6,7 +6,7 @@
     alt="abhishi1432" />
 </p>
 
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="350px" width="600px" /></p>
+<p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="370px" width="600px" /></p>
 
 - 🌱 I’m a final year undergraduate at KNIT, Sultanpur.
 
