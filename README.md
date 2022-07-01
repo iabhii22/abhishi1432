@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Abhishek Singh!</h1>
+<h2 align="center">नमस्ते (Namaste)🙏🏻, I'm Abhishek Singh!</h2>
 
 <p align="right">
 <h3>Profile Views :-</h3> <img
