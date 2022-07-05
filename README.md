@@ -43,7 +43,7 @@
 <p align="center"><img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishi1432&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="abhishi1432" bg_color=#808080/></p>
 <p align="left"><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhishi1432&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="abhishi1432"  /><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishi1432&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="abhishi1432" /></p>
 
-[![Abhishek Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishi1432&custom_title=Abhishek%20Singh's%20Contribution%20Graph&theme=dark&bg_color=0d1117&hide_border=true&line=d1a01f&point=c58545)](https://abhishi1432.dev)
+[![Abhishek Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishi1432&custom_title=Abhishek%20Singh's%20Contribution%20Graph&theme=dark&bg_color=0d1117&hide_border=true&line=d1a01f&point=c58545)]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
