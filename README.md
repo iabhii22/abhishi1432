@@ -8,11 +8,11 @@
 
 <p><img align="right" src="./animation_500_kxa883sd.gif" alt="abhishi1432" height="370px" width="400px" /></p>
 
-- 🌱 I’m a final year undergraduate at KNIT, Sultanpur.
+- 🌱 I’m a Specialist Programmer at Infosys.
 
 - ⚡I'm a problem solving enthusiast, working to hone my skills
 
-- 📫 Reach me at : **abhisheksngh2204@gmail.com**
+- 📫 Reach me at : **shapers_virtues0d@icloud.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
